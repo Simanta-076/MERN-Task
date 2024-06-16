@@ -90,7 +90,7 @@ Add the following environment variables to a `.env` file in the `../CRUD/server`
 - **CRUD App (Frontend)**: Navigate to `http://localhost:3000` in your browser to interact with data operations.
 - **UserTable**: Open the `UserTable/index.html` file to view registered users' information.
 
-##Screenshots
+## Screenshots
 ![Sign Up](https://github.com/Simanta-076/MERN-Task/assets/82601089/fcaf825a-6105-42e0-a19f-e4045f41edb1)
 ![Login](https://github.com/Simanta-076/MERN-Task/assets/82601089/1224f24c-09f3-4d89-aef4-5d53cce4a9bb)
 
