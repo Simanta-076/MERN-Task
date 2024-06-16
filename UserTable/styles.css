@@ -1,0 +1,22 @@
+body {
+    background-color: #f8f9fa;
+  }
+  .container {
+    margin-top: 50px;
+  }
+  .table {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  .table th, .table td {
+    border-top: none;
+  }
+  .table-striped tbody tr:nth-of-type(odd) {
+    background-color: #f3f4f6;
+  }
+  .table-striped tbody tr:hover {
+    background-color: #e9ecef;
+    cursor: pointer;
+  }
+  
