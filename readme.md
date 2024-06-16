@@ -1,6 +1,6 @@
 # CRUD Application Project
 
-This project consists of a CRUD (Create, Read, Update, Delete) application with a frontend and backend, along with a separate `UserTable` frontend to display registered users' information.
+This project consists of a CRUD (Create, Read, Update, Delete) application with a frontend and backend, along with a separate `UserTable` frontend to display registered users' information using HTML, jquery, CSS and Bootstrap.
 
 ## Table of Contents
 
@@ -19,8 +19,8 @@ This project consists of a CRUD (Create, Read, Update, Delete) application with 
 ## Features
 
 - CRUD operations for managing data.
-- User interface for CRUD operations.
-- Separate `UserTable` frontend displaying registered users.
+- User interface for CRUD operations using React.
+- Separate `UserTable` frontend displaying registered users using HTML, jquery, CSS and Bootstrap.
 
 ## Technologies Used
 
