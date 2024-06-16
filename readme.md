@@ -1,6 +1,6 @@
 # CRUD Application Project
 
-This project consists of a CRUD (Create, Read, Update, Delete) application with a frontend and backend, along with a separate `UserTable` frontend to display registered users' information using HTML, jquery, CSS and Bootstrap.
+This project consists of a CRUD (Create, Read, Update, Delete) application with a frontend and backend, along with a separate `UserTable` frontend to display registered users' information using HTML, jQuery, CSS and Bootstrap.
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ This project consists of a CRUD (Create, Read, Update, Delete) application with 
 
 - CRUD operations for managing data.
 - User interface for CRUD operations using React.
-- Separate `UserTable` frontend displaying registered users using HTML, jquery, CSS and Bootstrap.
+- Separate `UserTable` frontend displaying registered users using HTML, jQuery, CSS and Bootstrap.
 
 ## Technologies Used
 
@@ -29,6 +29,7 @@ This project consists of a CRUD (Create, Read, Update, Delete) application with 
 - HTML
 - CSS
 - JavaScript
+- jQuery
 - Bootstrap
 
 ### Backend
@@ -98,10 +99,10 @@ Add the following environment variables to a `.env` file in the `../CRUD/server`
 2. Login
 ![Login](https://github.com/Simanta-076/MERN-Task/assets/82601089/1224f24c-09f3-4d89-aef4-5d53cce4a9bb)
 
-3. User Information(React)
+3. User Information(jQuery)
 ![Screenshot 2024-06-17 001945](https://github.com/Simanta-076/MERN-Task/assets/82601089/c8b6ebfa-2125-402b-8833-f15afb7a90aa)
 
-4. User Information(jquery)
+4. User Information(React)
 ![Screenshot 2024-06-17 001839](https://github.com/Simanta-076/MERN-Task/assets/82601089/53d2d83f-5159-4409-a3b7-357acc625b9e)
 
 5. Pop-up Modal
