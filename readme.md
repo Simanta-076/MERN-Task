@@ -46,10 +46,7 @@ This project consists of a CRUD (Create, Read, Update, Delete) application with 
 ### Installation
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
-   ```
+   
 
 2. Navigate to the `client` folder and install dependencies using npm.
     ```cd client
